@@ -4,4 +4,4 @@
 -CODE
 - REPEAT
 # summary
-this is a very nice repo
+This is my life first github reposotory
