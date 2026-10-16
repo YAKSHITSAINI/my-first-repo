@@ -3,3 +3,6 @@
 - SLEEP
 -CODE
 - REPEAT
+- REPEAT
+# summary
+This is my life first github reposotory
